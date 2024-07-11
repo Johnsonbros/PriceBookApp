@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mvj/bIyvc8jl9fe4Z0Tyb74ZaLO1qcJ+2GzUhQkS39c4tSPJ3H/T51ZD6nTmWjvVB9ZCUwLpZFjbA4Bvt/9ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Workstation\\Desktop\\Johnson Bros\\VS Code\\PriceBookApp\\PriceBookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Workstation\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Workstation\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
